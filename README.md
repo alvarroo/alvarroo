@@ -4,9 +4,8 @@
 [![Follow](https://img.shields.io/github/followers/alvarroo?label=Follow&style=social)](https://github.com/alvarroo)
 
 ### About me !
-- I am a Web Developer from Ciudad Real, Spain
-- Visit my [personal site](https://alvarroo.github.io/portfolioAM/)  
-- Me gusta experimentar, aprender rápido y afrontar retos que me saquen de la zona de confort.  
+- Soy un desarrollador software de Ciudad Real, Spain
+- Mi porfolio: [personal site](https://alvarroo.github.io/portfolioAM/)  
 
 ### Stack 
 - Desarrollo con `.java` y `.py` 
@@ -18,4 +17,3 @@
 
 ### GitHub stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alvarroo&theme=github-dark)](https://git.io/streak-stats)
