@@ -5,7 +5,6 @@
 
 ### About me !
 - Soy un desarrollador software de Ciudad Real, Spain
-- Mi porfolio: [personal site](https://alvarroo.github.io/portfolioAM/)  
 
 ### Stack 
 - Desarrollo con `.java` y `.py` 
