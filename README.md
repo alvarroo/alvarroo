@@ -55,3 +55,48 @@
 - Despliegue: **Firebase** y **Docker**
 
 <br clear="both">
+
+<!--
+## Pod Doctor
+<table width="100%"> 
+  <tr>
+    <td width="50%" valign="top"> 
+      <ul> 
+        <li><strong>TFG</strong> de mi grado de Ingeniería Informática</li> 
+        <li>Diagnóstico inteligente de Logs en Pods de Kubernetes mediante un LLM local desde Backstage IDP con métricas</li> 
+        <li>Stack: <strong>Backstage(IDP):</strong> <strong>Angular</strong> + <strong>Node</strong></li> 
+        <li>Base de datos: <strong>PostgreSQL</strong></li> 
+        <li>IA local y privada: <strong>Ollama</strong> - <strong>Ministral-3</strong></li> 
+        <li>Técnicas de mejora IA limitada: <strong>Prompt optimization</strong> + <strong>RAG</strong></li> 
+        <li>Observabilidad: <strong>Dashboard de métricas IA</strong></li> 
+      </ul> 
+    </td> 
+    <td width="50%" align="center">
+      <img src="https://github.com/user-attachments/assets/aea9b282-47fa-4406-a7c7-3b7a2615e089" alt="Pod Doctor" width="100%" /> 
+    </td> 
+  </tr>
+</table>
+
+## [ESIMedia](https://github.com/SamRo28/Frontend-ESI-MEDIA-G05)
+<table width="100%"> 
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://esi-media-1c5d6.web.app/">
+        <img src="https://github.com/user-attachments/assets/b05410d8-1a61-4251-9876-fd217506757d" alt="ESIMedia" width="100%" />
+      </a>
+    </td> 
+    <td width="50%" valign="top"> 
+      <ul> 
+        <li>Proyecto unificado realizado en el último año de grado</li> 
+        <li>Plataforma multimedia para la <strong>reproducción de videos y música</strong>, centrada en la <strong>calidad</strong> y <strong>seguridad</strong> de la misma</li> 
+        <li>Sistema de usuarios <strong>RBAC</strong> con gestión de permisos y múltiples capas de seguridad ante ataques</li> 
+        <li>Gestión de usuarios y contenido como administrador</li> 
+        <li>Manejo de subscripciones a través de <strong>Stripe</strong></li> 
+        <li>Stack: <strong>Angular</strong> + <strong>Springboot</strong> + <strong>MySQL</strong></li> 
+        <li>Integración continua: <strong>Azure DevOps</strong></li> 
+        <li>Despliegue: <strong>Firebase</strong> y <strong>Docker</strong></li> 
+      </ul> 
+    </td> 
+  </tr> 
+</table>
+-->
