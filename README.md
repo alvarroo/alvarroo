@@ -1,7 +1,6 @@
+<h1 align="center">🤙 ¡Hola! Soy Álvaro</h1> 
 <div align="center">
   
-# 🤙 ¡Hola! Soy Álvaro
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaromozos/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alvaromozos12@gmail.com)
 [![Follow](https://img.shields.io/github/followers/alvarroo?label=Follow&style=social)](https://github.com/alvarroo)
