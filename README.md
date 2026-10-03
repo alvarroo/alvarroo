@@ -43,7 +43,7 @@
 
 ## [ESIMedia](https://github.com/SamRo28/Frontend-ESI-MEDIA-G05)
 <a href="https://esi-media-1c5d6.web.app/" >
-  <img align="left" width="500" hspace="30" alt="ESIMedia" src="https://github.com/user-attachments/assets/6ebba3dc-dc46-4bfa-a002-ac9f471fc92d" />
+  <img align="left" width="600" hspace="30" alt="ESIMedia" src="https://github.com/user-attachments/assets/b05410d8-1a61-4251-9876-fd217506757d" />
 </a>
 
 - Proyecto unificado realizado en el último año de grado
